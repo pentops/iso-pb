@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package iso.v1;
 
-option go_package = "github.com/pentops/go-iso/v1/iso_pb";
+option go_package = "github.com/pentops/iso-go/v1/iso_pb";
 
 // https://www.iso.org/iso-3166-country-codes.html
 enum Country {

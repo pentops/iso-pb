@@ -3,7 +3,7 @@ syntax = "proto3";
 
 package iso.v1;
 
-option go_package = "github.com/pentops/go-iso/v1/iso_pb";
+option go_package = "github.com/pentops/iso-go/v1/iso_pb";
 
 // https://en.wikipedia.org/wiki/ISO_4217
 enum Currency {
