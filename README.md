@@ -1,1 +1,3 @@
-# iso-pb
+# ISO Proto
+
+Protobuf definitions for ISO standards
