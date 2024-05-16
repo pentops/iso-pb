@@ -1,9 +1,9 @@
 version: v1
 plugins:
   - plugin: buf.build/protocolbuffers/go:v1.31.0
-    out: .
+    out: ./go/v1/iso_pb
     opt: paths=import,module=github.com/pentops/iso-pb/go/v1/iso_pb
 
   - name: go-sugar
-    out: .
+    out: ./go/v1/iso_pb
     opt: paths=import,module=github.com/pentops/iso-pb/go/v1/iso_pb
