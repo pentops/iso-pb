@@ -1,4 +1,4 @@
-module github.com/pentops/iso-go
+module github.com/pentops/iso-pb/go
 
 go 1.21.3
 
